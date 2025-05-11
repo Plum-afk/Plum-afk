@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Plum-afk, my real name is Justine
+- 👋 Hi, I'm Justine
 - 👀 I’m interested in Gym and Programming
-- 🌱 I’m currently learning C Language, HTML, and CSS
-- 💞️ I’m looking to collaborate on C-related projects/work
-- 📫 How to reach me: Facebook link in my profile
-- 😄 Pronouns: I'm/Him
-- ⚡ Fun fact: My favorite food is Chicken🐔
+- 🌱 I’m currently learning C Language, HTML, CSS, JavaScript, and PHP
 
 <!---
 Plum-afk/Plum-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
